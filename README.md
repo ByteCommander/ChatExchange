@@ -1,6 +1,11 @@
 ChatExchange
 ============
 
+> ## WARNING
+
+> #### This is a fork of the original https://github.com/Manishearth/ChatExchange . I created it originally because I wanted to make ChatExchange portable for Python 2 and 3. Now my ChatExchange6 fork has been merged back to the original ChatExchange repository.
+> #### Therefore please use the original repository linked above for your projects instead of this one. It's not guaranteed to be kept up to date and regularly maintained!
+
 [![Travis CI build status for master](https://travis-ci.org/Manishearth/ChatExchange.svg?branch=master)](https://travis-ci.org/Manishearth/ChatExchange)
 
 A Python2 and Python3 cross-version API for talking to Stack Exchange chat.
